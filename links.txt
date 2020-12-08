@@ -1,0 +1,5 @@
+https://docs.djangoproject.com/en/3.1/topics/db/models/
+
+https://www.udemy.com/course/django-avancado-100-aulas/
+
+https://www.youtube.com/watch?v=XPg38m6Cokw&list=PLHWfNMxB2F4HdKbo8zdgXyxVDOxH429Ko&index=13
